@@ -1,3 +1,3 @@
 # odin-recipes
 
-<!-- Learning GitHub basics and workflow. -->
+<!-- Learning GitHub basics and workflow, Basics  of HTML-->
